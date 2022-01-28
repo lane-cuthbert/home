@@ -1,2 +1,2 @@
 # Lane G. Cuthbert
-Welcome! This is my personal website where you can see what I'm up to. I will be adding more information soon.
+Welcome! I'm a Ph.D. student at the [University of Massachusetts, Amherst](https://polsci.umass.edu/). I study political behavior, focusing on polarization, incivility, and social media. You can see what I'm up to on this website. I will be adding more information soon.
